@@ -34,10 +34,10 @@ Paste the output of `whoami` here:
 
 ## Screenshot
 
-**Screenshot File Path:** `screenshots/git_installation_[your_name].[png/jpg]`
+**Screenshot File Path:** /c/Users/Admin/Downloads/screenshots
 
 **Screenshot Description:** 
-[Git Bash window showing whoami command with output 'Adminz']
+[Git Bash window showing whoami command with output 'Admin']
 
 ---
 
@@ -45,7 +45,7 @@ Paste the output of `whoami` here:
 
 ### Installation Method Used
 
-[Describe which installation method you used - e.g., "Downloaded installer from git-scm.com", "Used Homebrew", etc.]
+[Downloaded installer from git-scm.com]
 
 ### Did you encounter any issues during installation?
 
@@ -73,4 +73,4 @@ Paste the output of `whoami` here:
 
 **Submission Date:** [08/02/2026]
 
-**Repository URL:** []
+**Repository URL:** [https://github.com/ait-svce/getting-started-with-git-2025it0032-cloud.git]
